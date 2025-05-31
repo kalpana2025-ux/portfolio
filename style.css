@@ -15,8 +15,8 @@ gap:250px;
 align-items:center;
 position: fixed;
 top: 0;
-  width: 100%;
-  z-index: 1000;
+width: 100%;
+z-index: 1000;
 }
 .logo
 {
@@ -57,8 +57,9 @@ color:red;
 }
 .main1
 {
-display:flex;
-gap:200px;
+  margin-top: 130px; 
+  display: flex;
+  gap: 200px;
 }
 img
 {
